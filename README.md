@@ -31,8 +31,8 @@ Com os seguintes dados:
     "nome": "rodrigo lobo",
     "email": "rodrigo@alura.com.br",
     "senha": "123456",
-    "endereco": "Rua Vergueiro, 3185",
-    "complemento": "Vila Mariana",
+    "endereco": "Rua 8, Lote 1",
+    "complemento": "Parque Esplanada II",
     "cep": "04101-300"
 }
 ```
