@@ -5,7 +5,7 @@ name: Workflow de Integração Contínua
 
 on:
   pull_request:
-    branches: [ "main" ]
+    branches: [ "dev" ]
 
 jobs:
   testes:
